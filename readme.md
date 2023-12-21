@@ -27,7 +27,7 @@ theory
 ui
 ux
 
-<!-- 1. ai
+1. ai
 2. backend
 3. benchmark
 4. blockchain
@@ -61,7 +61,7 @@ ux
 32. ui
 33. ux
 34. workflow
-35. trend -->
+35. trend
 
 <!-- * seraparated folders -
 1. frontend (something is fishy here, so have to check it later)
