@@ -336,4 +336,4 @@ Keep watching cat videos + Saturo Gojo will definitely return after 236 chapter 
 
 ### notes:
 1. pipdream
-2. ...
+2. never give up
