@@ -63,7 +63,7 @@ ux
 34. workflow
 35. trend
 
-<!-- * seraparated folders -
+seraparated folders -
 1. frontend (something is fishy here, so have to check it later)
 2. backend
 3. blockchain
@@ -75,7 +75,7 @@ ux
 4. blockchain
 5. authflow
 6. paymentflow
-7. animeflow -->
+7. animeflow
 
 
 In this project I am trying to build a platform to make developer experience (as dx is the shortform) better. By using this developers will manage huge website project more efficiently.It is a huge project so I have devided it in smaller component's like:
