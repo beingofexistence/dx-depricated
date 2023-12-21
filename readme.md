@@ -27,7 +27,6 @@ theory
 ui
 ux
 
-
 for i in ls
 do
   echo"$i ls"
