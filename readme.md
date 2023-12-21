@@ -27,10 +27,6 @@ theory
 ui
 ux
 
-for i in ls
-do
-  echo"$i ls"
-done
 <!-- 1. ai
 2. backend
 3. benchmark
