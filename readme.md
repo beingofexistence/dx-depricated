@@ -4,30 +4,29 @@
 
 ## folder structure update:
 * final folders list -
-ai
-algorithm
-backend
-blockchain
-config
-database
-design-pattern
-documentation
-frontend
-media
-observability
-package
-payment
-privacy
-readme.md
-roadmap
-script
-security
-test
-theory
-ui
-ux
-
 1. ai
+2. algorithm
+3. backend
+4. blockchain
+5. config
+6. database
+7. design-pattern
+8. documentation
+9. frontend
+10. media
+11. observability
+12. package
+13. payment
+14. privacy
+15. roadmap
+16. script
+17. security
+18. test
+19. theory
+20. ui
+21. ux
+
+<!-- 1. ai
 2. backend
 3. benchmark
 4. blockchain
@@ -61,22 +60,7 @@ ux
 32. ui
 33. ux
 34. workflow
-35. trend
-
-seraparated folders -
-1. frontend (something is fishy here, so have to check it later)
-2. backend
-3. blockchain
-
-* files in folders(mostly in frontend) -
-1. ui
-2. ux
-3. ai
-4. blockchain
-5. authflow
-6. paymentflow
-7. animeflow
-
+35. trend -->
 
 In this project I am trying to build a platform to make developer experience (as dx is the shortform) better. By using this developers will manage huge website project more efficiently.It is a huge project so I have devided it in smaller component's like:
 
