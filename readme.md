@@ -64,7 +64,7 @@
 
 In this project I am trying to build a platform to make developer experience (as dx is the shortform) better. By using this developers will manage huge website project more efficiently.It is a huge project so I have devided it in smaller component's like:
 
-1. dx-authflow[having trouble to integrate authentication in your website? you need dx-authflow this thing got -: 536 social login options, all blockchain wallets supported in the world and 3 more awesome feature I just can't explain this project's features in this short description. I sure wasted so many time in this project. but the final results just make this hard work paid off 😊. I can promise you have never seen so much features in an authentication package!!! there is many things to say so just check the github repo -> https://github.com/beingofexistence/dx-authflow.git (status:COMPLETED-@1.0.0)
+1. dx-auth[having trouble to integrate authentication in your website? you need dx-authflow this thing got -: 536 social login options, all blockchain wallets supported in the world and 3 more awesome feature I just can't explain this project's features in this short description. I sure wasted so many time in this project. but the final results just make this hard work paid off 😊. I can promise you have never seen so much features in an authentication package!!! there is many things to say so just check the github repo -> https://github.com/beingofexistence/dx-authflow.git (status:COMPLETED-@1.0.0)
 ]
 
 2. dx-ai[by using this package you can use any ai models strait from huggingface,openai or any ai models providers to your own website ->  https://github.com/beingofexistence/dx-ai.git (status:ALMOST_COMPLETED)]
@@ -81,9 +81,15 @@ In this project I am trying to build a platform to make developer experience (as
 
 8. dx-ux[there are like millions of javascript libraries that are great but not no one is literally not even aware of. that's why I maded this project to assemble them all keeping in mind optimization website and provide an ai to search for the right libraries for right 👍 not the most popular ones ->  https://github.com/beingofexistence/dx-ux.git (status:FAR_FROM_COMPLETED)]
 
-9. dx-animeflow [this project will manage your website's icon - target to cover 5million icons in glassmorphisum,neon,rainbow,animated,sharp,fill,outlined and water-colored 💦 flavors,fonts,dom + window + canvas,animated svg and browser consoles and animations ->  https://github.com/beingofexistence/dx-animeflow.git (status:FAR_FROM_COMPLETED)]
+<!-- 9. dx-animeflow [this project will manage your website's icon - target to cover 5million icons in glassmorphisum,neon,rainbow,animated,sharp,fill,outlined and water-colored 💦 flavors,fonts,dom + window + canvas,animated svg and browser consoles and animations ->  https://github.com/beingofexistence/dx-animeflow.git (status:FAR_FROM_COMPLETED)] -->
+9. dx-algorithm [🚀 dx/algorithm is a groundbreaking project led by an experienced software developer. 🧠 This project is dedicated to addressing a broad spectrum of algorithm-related challenges. 💡 With a strong commitment to open-source principles, dx/algorithm is poised to make significant contributions to the field of algorithms and impact the global tech community. 🌐]
 
 10. dx-paymentflow[ will provide you all payment dealing providers -> https://github.com/beingofexistence/dx-paymentflow.git (status:FAR_FROM_COMPLETED)]
+
+
+
+
+
 
 # OpenSource Cloning / Stealling
 Dx has used many other opensource github repoes in it.This is not waste of time cause that repoes are fetced automaticlly by Terminalflow and this repoes is used probably in the best way possible by maintaing their copyrights after their repective owners.I used other repoes cause Dx aims to do a lot of things besides + up + down and every way around WWW INTERNET stuffts(not native cause that problem has its own solution guess the unique name would be,,,okay okay.. donot bottheer -> DX Native -I know such a uniqe name "I know I am best at naming stuffs" [And I am too lazy so donot expect me to put logo or link to that website here do it by yourself(Ninja Tecnic For Rankning Searh In Google Search --- and I beg you please go to Dx Native ignoring my bad joke)]).
