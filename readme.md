@@ -1,8 +1,11 @@
 # Dx!!!
 
-![undefined-high](https://github.com/beingofexistence/dx/assets/154454486/e8865b05-bc54-498b-afa0-f221a0cba365)
+
 
 ![new_recording_-_10_13_2023,_7_35_38_pm (Original)](https://github.com/beingofexistence/dx/assets/103621682/0d2eb57d-9052-4b36-8fd2-be49f376cb01)
+![New_Recording_-_12_29_2023,_12_29_29_AM (online-video-cutter com) (1)](https://github.com/beingofexistence/dx/assets/154454486/46d54fca-97b3-4113-8015-fd8bd270ef55)
+
+
 
 ## folder structure update:
 * final folders list -
@@ -29,6 +32,7 @@
 21. ux
 
 <!-- 1. ai
+![undefined-high](https://github.com/beingofexistence/dx/assets/154454486/e8865b05-bc54-498b-afa0-f221a0cba365)
 2. backend
 3. benchmark
 4. blockchain
