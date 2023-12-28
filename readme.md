@@ -1,5 +1,7 @@
 # Dx!!!
 
+![undefined-high](https://github.com/beingofexistence/dx/assets/154454486/e8865b05-bc54-498b-afa0-f221a0cba365)
+
 ![new_recording_-_10_13_2023,_7_35_38_pm (Original)](https://github.com/beingofexistence/dx/assets/103621682/0d2eb57d-9052-4b36-8fd2-be49f376cb01)
 
 ## folder structure update:
