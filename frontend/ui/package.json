@@ -8,6 +8,11 @@
     "name": "shadcn",
     "url": "https://twitter.com/shadcn"
   },
+  "workspaces": [
+    "apps/*",
+    "packages/*",
+    "templates/*"
+  ],
   "scripts": {
     "build": "turbo run build",
     "build:cli": "turbo --filter=shadcn-ui build",
@@ -28,6 +33,7 @@
     "pub:release": "cd packages/cli && pnpm pub:release",
     "test": "turbo run test --force"
   },
+  "packageManager": "pnpm@8.5.1",
   "dependencies": {
     "@babel/core": "^7.22.1",
     "@changesets/changelog-github": "^0.4.8",

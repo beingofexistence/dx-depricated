@@ -18,7 +18,7 @@ import MailPage from "@/app/examples/mail/page"
 export default function IndexPage() {
   return (
     <div className="container relative">
-      {/* <PageHeader>
+      <PageHeader>
         <Announcement />
         <PageHeaderHeading>Build your component library</PageHeaderHeading>
         <PageHeaderDescription>
@@ -39,7 +39,7 @@ export default function IndexPage() {
             GitHub
           </Link>
         </PageActions>
-      </PageHeader> */}
+      </PageHeader>
       <ExamplesNav className="[&>a:first-child]:text-primary" />
       <section className="overflow-hidden rounded-lg border bg-background shadow-md md:hidden md:shadow-xl">
         <Image
